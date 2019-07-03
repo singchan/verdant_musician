@@ -1,0 +1,28 @@
+
+remote_theme: fongandrew/hydeout
+
+title: Hydeout
+
+tagline: "A Jekyll theme"
+
+description: 'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+
+url: https://fongandrew.github.io
+
+baseurl: "/verdant_musician"
+
+author: 
+  name: "Andrew Fong"
+  url: https://twitter.com/fongandrewc
+
+
+hydeout: 
+  repo: https://github.com/fongandrew/hydeout # your project on github if this site is about an open source project
+  version: # this is if you have a downloadable version on this repository
+
+
+disqus: 
+  shortname:
+
+
+google_analytics: 
